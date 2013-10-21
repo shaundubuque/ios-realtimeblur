@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
  # s.license      =  'MIT'
   s.author       = { "Alex Usbergo" => "alexakadrone@gmail.com" }
   s.platform     = :ios, '5.0'
-  s.source       = { :git => "https://github.com/alexdrone/ios-realtimeblur.git", :commit => "80f1d36833b0b56ae02778a16cd7eda39492be31" }
+  s.source       = { :git => "https://github.com/shaundubuque/ios-realtimeblur.git", :commit => "80f1d36833b0b56ae02778a16cd7eda39492be31" }
   s.source_files  = 'RealTimeBlur/Classes/*'
   s.frameworks = 'QuartzCore', 'Accelerate'
   s.requires_arc = true
